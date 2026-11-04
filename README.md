@@ -10,8 +10,8 @@
 
 | # | Full name | Student ID | Class group |
 |---|-----------|------------|-------------|
-| 1 | Michel *(add surname)* | 29055 | *(I / B / C / D)* |
-| 2 | *(partner full name)* | *(partner ID)* | *(I / B / C / D)* |
+| 1 | Michel GIRINSHUTI | 29055 | C |
+| 2 | IRIHO ODILE | 28965 | C |
 
 **Submission deadline for our group:** *(fill in from the assignment table)*
 **Repository link:** *(paste the public GitHub URL here)*
