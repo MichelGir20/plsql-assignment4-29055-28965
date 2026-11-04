@@ -1,0 +1,22 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Oracle / SQL*Plus / SQL Developer artefacts
+*.lst
+*.log
+*.bak
+*.trc
+afiedt.buf
+sqlnet.log
+wallet/
+*.sso
+*.p12
+
+# Never commit credentials
+.env
+*password*
+*.key
