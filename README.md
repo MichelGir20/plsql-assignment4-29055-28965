@@ -13,8 +13,8 @@
 | 1 | Michel GIRINSHUTI | 29055 | C |
 | 2 | IRIHO ODILE | 28965 | C |
 
-**Submission deadline for our group:** *(fill in from the assignment table)*
-**Repository link:** *(paste the public GitHub URL here)*
+**Submission deadline for our group:** Wednesday, 4 November 2026 at 11:59 PM
+**Repository link:** [https://github.com/MichelGir20/plsql-assignment4-29055-28965](https://github.com/MichelGir20/plsql-assignment4-29055-28965)
 
 ---
 
@@ -130,9 +130,9 @@ SELECT object_name, object_type, status FROM user_objects WHERE status <> 'VALID
 
 Both test scripts end with `ROLLBACK`, so they can be re-run any number of times. If you use SQL Developer, run each file with **Run Script (F5)** so `DBMS_OUTPUT` is shown.
 
-### Screenshots to capture (save in `screenshots/`)
+### Screenshots captured (saved in `screenshots/`)
 
-One per test, named `<test_name>_output.png`, for example `S1_register_student_course_output.png` ... `S12_benchmark_output.png`, and `E1_student_not_found_output.png` ... `E23_benchmark_invalid_rows_output.png`. Also capture the clean `user_objects` check (no invalid objects) and the `bulk_error_log` query from test E18.
+One per test, named `<test_name>_output.png`, for example `S1_register_student_course_output.png` ... `S12_benchmark_output.png`, and `E1_student_not_found_output.png` ... `E23_benchmark_invalid_rows_output.png`.
 
 ---
 
@@ -157,12 +157,12 @@ One per test, named `<test_name>_output.png`, for example `S1_register_student_c
 
 ## 6. AI Assistance Disclosure
 
-We used an AI assistant (Claude, by Anthropic) to help design the application, draft the SQL and PL/SQL code, and write the first version of the test scripts and documentation. *(Edit this paragraph so it honestly describes what each of you did: which parts you reviewed, changed, ran and debugged yourselves, and who wrote which commits.)* Both group members have read, run and tested all of the code, and both of us are able to explain and justify every file in this repository.
+We used an AI assistant to help design the application, draft the SQL and PL/SQL code, and add meaningful comments to the code for readability. We also used an AI assistant to help draft a presentable README. Both group members have read, reviewed, run and tested all of the code, and both of us are able to explain and justify every file in this repository.
 
 ---
 
 ## 7. Submission Details
 
-- **Repository Link:** *(GitHub URL)*
-- **Group members:** Michel *(surname)* (29055) and *(partner name)* *(partner ID)*
+- **Repository Link:** GitHub URL (https://github.com/MichelGir20/plsql-assignment4-29055-28965)
+- **Group members:** Michel GIRINSHUTI (29055) and IRIHO ODILE (28965)
 - **Submitted via:** Google Form (https://forms.gle/T97Ay3yeKCKBYf7t8)
